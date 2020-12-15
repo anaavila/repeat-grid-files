@@ -3,7 +3,7 @@
 Populate Repeat Grids in Adobe XD
 
 <strong>Description:</strong><br>
-Simple program that reads a CSV file and creates files for each CSV column, and stores its data in a format ready to populate data Adobe XD’s repeat grids.
+Simple program that reads a CSV file and creates files for each CSV column in a format ready to populate text elements in Adobe XD’s repeat grids.
 
 <strong>Goal:</strong><br>
 The goal of this program is to help Adobe XD users spend less time creating files in the required format to populate text in repeat grids.
