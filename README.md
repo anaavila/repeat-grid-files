@@ -22,7 +22,7 @@ The spreadsheet file’s column names will be the names for each individual text
 Your files will be created in the folder where the populateXD.py is found.<br>
 
 <h3>Try program with given file!</h3>
-Download ```'populateXD.py'``` and ```'employees.csv'```.<br>
+Download 'populateXD.py' and 'employees.csv'.<br>
 After you run the program, the following 4 files will be created:
 <ul>
   <li>name.txt</li>
@@ -31,4 +31,4 @@ After you run the program, the following 4 files will be created:
   <li>location.txt</li>
 </ul>
 
-Each file will look similar to the given 'name.txt' file.
+Each file will be in the format as the given 'name.txt' file.
