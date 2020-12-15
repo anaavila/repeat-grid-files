@@ -20,3 +20,15 @@ For designers, is convenient to collect data in spreadsheet files that is planne
 <strong>Note:</strong><br>
 The spreadsheet file’s column names will be the names for each individual text files.<br>
 Your files will be created in the folder where the populateXD.py is found.<br>
+
+<h3>Try program with given file!</h3>
+Download ```'populateXD.py'``` and ```'employees.csv'```.<br>
+After you run the program, the following 4 files will be created:
+<ul>
+  <li>name.txt</li>
+  <li>id.txt</li>
+  <li>role.txt</li>
+  <li>location.txt</li>
+</ul>
+
+Each file will look similar to the given 'name.txt' file.
